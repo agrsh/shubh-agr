@@ -5,14 +5,33 @@
 layout: home
 ---
 
+<style>
+.parent {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+</style>
 
-I am a first year **PhD Student** with 
-[Northeastern's PRL](https://prl.khoury.northeastern.edu/) advised by 
-[Steven Holtzen](https://www.khoury.northeastern.edu/home/sholtzen/).
-I am broadly interested in type-and-effect systems and program logics
-and their ability to provide correctness guarantees about interesting
-computational systems. I received my Bachelor's in Computer Science
+<div class="parent">
+
+<div class="child1">
+I am a first year PhD Student with 
+<a target="_blank" href="https://prl.khoury.northeastern.edu/">Notheastern PRL</a> 
+advised by <a target="_blank" href="https://www.khoury.northeastern.edu/home/sholtzen/">
+Steven Holtzen</a>. I am broadly interested in type-and-effect systems and 
+program logics and their ability to provide correctness guarantees about 
+interesting computational systems. I received my Bachelor's in Computer Science
 at the University of Michigan - Ann Arbor in May 2024.
+</div>
+
+<div class="child2" style="text-align:right;">
+<img src="assets/portrait_cropped.jpg" alt="Portrait of me" 
+    style="padding: 5px 30px 5px 30px; align: right"
+    height=300vh width=300vw />
+</div>
+
+</div>
+
 
 
 <br/>
