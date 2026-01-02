@@ -15,12 +15,14 @@ layout: home
 <div class="parent">
 
 <div class="child1">
-I am a first year PhD Student with 
+I am a second year PhD Student with 
 <a target="_blank" href="https://prl.khoury.northeastern.edu/">Notheastern PRL</a> 
 advised by <a target="_blank" href="https://www.khoury.northeastern.edu/home/sholtzen/">
 Steven Holtzen</a>. I am broadly interested in type-and-effect systems and 
 program logics and their ability to provide correctness guarantees about 
-interesting computational systems. I received my Bachelor's in Computer Science
+interesting computational systems. I specifically work on reasoning
+about probabilistic programs.
+I received my Bachelor's in Computer Science
 at the University of Michigan - Ann Arbor in May 2024.
 </div>
 
@@ -36,6 +38,9 @@ at the University of Michigan - Ann Arbor in May 2024.
 
 <br/>
 ### **Publications**
+* Shubh Agrawal, Jialu Bao, and Steven Holtzen. "Towards an equational
+  calculus of interventions," LAFI 2026, 
+  [Extended Abstract](/assets/papers/lafi26.pdf).
 * Cassia Torczon, Emmanuel Suárez Acevedo, Shubh Agrawal, Joey Velez-Ginorio, 
   and Stephanie Weirich. "Effects and Coeffects in Call-By-Push-Value," 
   OOPSLA 2024, [https://dl.acm.org/doi/10.1145/3689750](https://dl.acm.org/doi/10.1145/3689750) ([Extended Version](https://arxiv.org/abs/2311.11795))
